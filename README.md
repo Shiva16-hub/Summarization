@@ -1,29 +1,3 @@
-psummry/
-│
-├── backend/
-│   ├── app/
-│   │   ├── main.py
-│   │   ├── models.py
-│   │   ├── schemas.py
-│   │   ├── services.py
-│   │   └── utils.py
-│   ├── requirements.txt
-│   └── Dockerfile
-│
-
-
-├── frontend/
-│   ├── src/
-│   │   ├── components/
-│   │   │   └── FileUpload.js
-│   │   ├── App.js
-│   │   ├── index.js
-│   │   └── api.js
-│   ├── public/
-│   └── package.json
-│
-└── README.md
-
 
 **Overview**
 This project includes a backend developed in Python using Flask (or FastAPI) and a frontend developed in React. The backend handles file uploads and text summarization, while the frontend allows users to interact with the backend.
@@ -86,5 +60,32 @@ If you encounter any issues, ensure that the backend and frontend are running on
 Feel free to reach out if you need further assistance!
 
 This README.md should provide clear instructions for setting up and running your project. Adjust the example code and URLs based on your actual project structure and configuration.
+
+
+psummry/
+│
+├── backend/
+│   ├── app/
+│   │   ├── main.py
+│   │   ├── models.py
+│   │   ├── schemas.py
+│   │   ├── services.py
+│   │   └── utils.py
+│   ├── requirements.txt
+│   └── Dockerfile
+│
+
+
+├── frontend/
+│   ├── src/
+│   │   ├── components/
+│   │   │   └── FileUpload.js
+│   │   ├── App.js
+│   │   ├── index.js
+│   │   └── api.js
+│   ├── public/
+│   └── package.json
+│
+└── README.md
 
  
