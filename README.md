@@ -1,3 +1,28 @@
+psummry/
+│
+├── backend/
+│   ├── app/
+│   │   ├── main.py
+│   │   ├── models.py
+│   │   ├── schemas.py
+│   │   ├── services.py
+│   │   └── utils.py
+│   ├── requirements.txt
+│   └── Dockerfile
+│
+├── frontend/
+│   ├── src/
+│   │   ├── components/
+│   │   │   └── FileUpload.js
+│   │   ├── App.js
+│   │   ├── index.js
+│   │   └── api.js
+│   ├── public/
+│   └── package.json
+│
+└── README.md
+
+
 **Overview**
 This project includes a backend developed in Python using Flask (or FastAPI) and a frontend developed in React. The backend handles file uploads and text summarization, while the frontend allows users to interact with the backend.
 
